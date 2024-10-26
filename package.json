@@ -1,7 +1,6 @@
 {
     "name": "@ryo_ff/contentcraft",
     "version": "1.0.0",
-    "private": true,
     "description": "WYSIWYG Editor Project",
     "main": "dist/index.js",
     "scripts": {
