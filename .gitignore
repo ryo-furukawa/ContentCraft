@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+pnpm-lock.yaml
+
+# pnpm store
+.pnpm-store/
+
+# Build output
+dist/
+
+# Docker
+docker-compose.override.yml
+docker-compose.dev.yml
+
+# TypeScript
+*.tsbuildinfo
+
+# IDEs and editors
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Other
+*.log
+*.env
+git-rule.md
+.dockerignore
+.prettierrc
